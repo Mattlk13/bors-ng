@@ -67,7 +67,7 @@ defmodule BorsNg.Mixfile do
       {:telemetry_poller, "~> 1.0"},
       {:phoenix_pubsub, "~> 2.1"},
       {:jason, "~> 1.4"},
-      {:gettext, "~> 0.15"},
+      {:gettext, "~> 1.0"},
       {:cowboy, "~> 2.10"},
       {:plug_cowboy, "~> 2.6"},
       {:tesla, "~> 1.7.0"},
